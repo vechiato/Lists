@@ -23,4 +23,19 @@
 0.0.0.0 candy.ai
 0.0.0.0 gpt-gf.ai
 0.0.0.0 chai-research.com
+0.0.0.0 nomi.ai
+0.0.0.0 lovecoreai.com
+0.0.0.0 kupid.ai
+0.0.0.0 soulchat.co
+0.0.0.0 dataloop.ai
+0.0.0.0 soulfun.ai
+0.0.0.0 mysentient.ai
+0.0.0.0 cubecobra.com
+0.0.0.0 spicychat.ai
+0.0.0.0 dreamle.ai
+0.0.0.0 replika.com
+0.0.0.0 replika.ai
+0.0.0.0 tingo.ai
+
+
 
