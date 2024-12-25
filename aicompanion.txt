@@ -1,0 +1,26 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: List - AI Companion List
+# -------------------------------------[INFO]---------------------------------------
+#
+# AI Companion list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 c.ai
+0.0.0.0 character.ai
+0.0.0.0 livechat.ai
+0.0.0.0 myanima.ai
+0.0.0.0 anima.ai
+0.0.0.0 crushon.ai
+0.0.0.0 powerdream.com
+0.0.0.0 talkie-ai.com
+0.0.0.0 sakura.fm
+0.0.0.0 sakura.ai
+0.0.0.0 roleplai.app
+0.0.0.0 kuki.ai
+0.0.0.0 charfriend.com
+0.0.0.0 janitorai.com
+0.0.0.0 funbot.wtf
+0.0.0.0 moemate.ai
+0.0.0.0 candy.ai
+0.0.0.0 gpt-gf.ai
+0.0.0.0 chai-research.com
+
