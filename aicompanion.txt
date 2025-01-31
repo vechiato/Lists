@@ -4,6 +4,7 @@
 #
 # AI Companion list
 # ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 flipped.chat
 0.0.0.0 c.ai
 0.0.0.0 character.ai
 0.0.0.0 livechat.ai
