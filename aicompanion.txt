@@ -107,8 +107,12 @@
 0.0.0.0 angel.ai
 0.0.0.0 dreamgen.com
 0.0.0.0 ai-mistress.com
-
-
+0.0.0.0 herahaven.ai
+0.0.0.0 candy.ai
+0.0.0.0 romanticai.com
+0.0.0.0 luvr.ai
+0.0.0.0 girlfriend.myanima.ai
+0.0.0.0 myanima.ai
 
 
 
