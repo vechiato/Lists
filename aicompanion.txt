@@ -56,6 +56,8 @@
 0.0.0.0 joiai.com
 0.0.0.0 joiaigirlfriend.com
 0.0.0.0 kajiwoto.ai
+0.0.0.0 landing.kindroid.ai
+0.0.0.0 kindroid.ai
 0.0.0.0 kuki.ai
 0.0.0.0 kupid.ai
 0.0.0.0 livechat.ai
