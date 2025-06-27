@@ -59,6 +59,7 @@ Ju# ------------------------------------[UPDATE]--------------------------------
 0.0.0.0 faraday.dev
 0.0.0.0 flipped.chat
 0.0.0.0 flirtflix.ai
+0.0.0.0 flowgpt.com
 0.0.0.0 funbot.wtf
 0.0.0.0 gening.ai
 0.0.0.0 girlfriend.myanima.ai
