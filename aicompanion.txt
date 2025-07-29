@@ -12,7 +12,6 @@
 0.0.0.0 aicupid.ai
 0.0.0.0 aidungeon.io
 0.0.0.0 aigirlfriend.wtf
-0.0.0.0 aigirlfriend.wtf
 0.0.0.0 ainsfwtools.com
 0.0.0.0 aisekai.ai
 0.0.0.0 aisexting.bot
@@ -41,7 +40,6 @@
 0.0.0.0 convai.com
 0.0.0.0 craveu.ai
 0.0.0.0 creati.ai
-0.0.0.0 crush.io
 0.0.0.0 crush.to
 0.0.0.0 crushon.ai
 0.0.0.0 cubecobra.com
