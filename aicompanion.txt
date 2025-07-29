@@ -78,6 +78,7 @@
 0.0.0.0 joiai.com
 0.0.0.0 joiaigirlfriend.com
 0.0.0.0 kajiwoto.ai
+0.0.0.0 joyland.ai
 0.0.0.0 landing.kindroid.ai
 0.0.0.0 kobold.ai
 0.0.0.0 kindroid.ai
