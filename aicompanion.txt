@@ -1,4 +1,4 @@
-# ------------------------------------[UPDATE]--------------------------------------
+hi# ------------------------------------[UPDATE]--------------------------------------
 # Title: List - AI Companion List
 # -------------------------------------[INFO]---------------------------------------
 #
@@ -110,6 +110,7 @@
 0.0.0.0 perberos.me
 0.0.0.0 polybuzz.ai
 0.0.0.0 www.polybuzz.ai
+0.0.0.0 pixelchat.ai
 0.0.0.0 powerdream.com
 0.0.0.0 powerusers.ai
 0.0.0.0 priveeai.com
@@ -178,4 +179,6 @@
 0.0.0.0 replikabot.com
 0.0.0.0 simsimi.com
 0.0.0.0 woebothealth.com
+0.0.0.0 wikimedia.org
+0.0.0.0 commons.wikimedia.org
 0.0.0.0 you.com
