@@ -3,7 +3,7 @@
 # -------------------------------------[INFO]---------------------------------------
 #
 # AI Companion list
-# 20251015
+# 20251016
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 100xgrowth.ai
 0.0.0.0 2moons.ai
@@ -585,7 +585,6 @@
 0.0.0.0 hotpot.ai
 0.0.0.0 hourone.ai
 0.0.0.0 huggingface.co
-0.0.0.0 huggingface.co/spaces
 0.0.0.0 humata.ai
 0.0.0.0 hunts.ai
 0.0.0.0 hypic.app
@@ -874,7 +873,6 @@
 0.0.0.0 openfuture.ai
 0.0.0.0 openjourney.art
 0.0.0.0 openrouter.ai
-0.0.0.0 openrouter.ai/characters
 0.0.0.0 opensea.io
 0.0.0.0 opentools.ai
 0.0.0.0 otasarimciol.shop
