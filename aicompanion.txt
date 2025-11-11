@@ -3,7 +3,7 @@
 # -------------------------------------[INFO]---------------------------------------
 #
 # AI Companion list
-# 20251016
+# 20251111
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 100xgrowth.ai
 0.0.0.0 2moons.ai
@@ -253,12 +253,14 @@
 0.0.0.0 caryn.ai
 0.0.0.0 caspa.ai
 0.0.0.0 catsaroundtheglobe.com
+0.0.0.0 caveduck.io
 0.0.0.0 celebjihad.com
 0.0.0.0 centralaitools.com
 0.0.0.0 cfake.com
 0.0.0.0 cgdream.ai
 0.0.0.0 chai-research.com
 0.0.0.0 chai.ml
+0.0.0.0 channel.io
 0.0.0.0 char.ai
 0.0.0.0 character-tavern.com
 0.0.0.0 character.ai
