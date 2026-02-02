@@ -3,7 +3,7 @@
 # -------------------------------------[INFO]---------------------------------------
 #
 # AI Companion list
-# 20251111
+# 20260202
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 100xgrowth.ai
 0.0.0.0 2moons.ai
@@ -871,6 +871,7 @@
 0.0.0.0 openaijourney.com
 0.0.0.0 openaisea.com
 0.0.0.0 openart.ai
+0.0.0.0 opencharacter.org
 0.0.0.0 opendream.ai
 0.0.0.0 openfuture.ai
 0.0.0.0 openjourney.art
