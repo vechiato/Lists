@@ -286,7 +286,6 @@
 0.0.0.0 civitai.com
 0.0.0.0 civitaiarchive.com
 0.0.0.0 civitaic.com
-0.0.0.0 claude.ai
 0.0.0.0 cleverbot.com
 0.0.0.0 client.aigur.dev
 0.0.0.0 clipdrop.co
