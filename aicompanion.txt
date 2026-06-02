@@ -1,9 +1,8 @@
-# ------------------------------------[UPDATE]--------------------------------------
-# Title: List - AI Companion List
+
 # -------------------------------------[INFO]---------------------------------------
-#
 # AI Companion list
-# 20260202
+# ------------------------------------[UPDATE]--------------------------------------
+# 20260602
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 100xgrowth.ai
 0.0.0.0 2moons.ai
@@ -350,6 +349,7 @@
 0.0.0.0 dalle3.ai
 0.0.0.0 damngood.tools
 0.0.0.0 dang.ai
+0.0.0.0 darlink.ai
 0.0.0.0 datadriveninvestor.com
 0.0.0.0 dataloop.ai
 0.0.0.0 davidarielszauder.com
@@ -407,8 +407,10 @@
 0.0.0.0 dogbreedadvice.com
 0.0.0.0 domoai.app
 0.0.0.0 domyshoot.com
+0.0.0.0 dondi.ai
 0.0.0.0 dopaminegirl.com
 0.0.0.0 dopple.ai
+0.0.0.0 dotdotdot.ai
 0.0.0.0 draeno.io
 0.0.0.0 draftlab.ai
 0.0.0.0 drawatoon.com
@@ -417,6 +419,7 @@
 0.0.0.0 drawnudes.io
 0.0.0.0 dream.ai
 0.0.0.0 dreamboothr.com
+0.0.0.0 dreamcompanion.ai
 0.0.0.0 dreamerai.art
 0.0.0.0 dreamerland.ai
 0.0.0.0 dreamgen.com
@@ -450,6 +453,8 @@
 0.0.0.0 elai.io
 0.0.0.0 elephant.art
 0.0.0.0 eleuther.ai
+0.0.0.0 ellyd.ai
+0.0.0.0 ellydee.ai
 0.0.0.0 elna-ai.art
 0.0.0.0 elyza.app
 0.0.0.0 emailtriager.com
@@ -546,6 +551,8 @@
 0.0.0.0 giotto.streamlit.app
 0.0.0.0 girlfriend.ai
 0.0.0.0 girlfriend.myanima.ai
+0.0.0.0 girlfriendgpt.ai
+0.0.0.0 girlfriendgpt.chat
 0.0.0.0 girlfriendgpt.online
 0.0.0.0 girlfriendly.ai
 0.0.0.0 gizzmo.ai
@@ -577,7 +584,11 @@
 0.0.0.0 heygen.com
 0.0.0.0 heypi.com
 0.0.0.0 hiddendoor.co
+0.0.0.0 hiromance.ai
+0.0.0.0 hiromance.app
 0.0.0.0 hitpaw.ai
+0.0.0.0 hiwaifu.ai
+0.0.0.0 hiwaifu.app
 0.0.0.0 holara.ai
 0.0.0.0 home.ai
 0.0.0.0 homediningkitchen.com
@@ -618,6 +629,7 @@
 0.0.0.0 img2go.com
 0.0.0.0 imiprompt.com
 0.0.0.0 impossibleimages.ai
+0.0.0.0 indecent.ai
 0.0.0.0 infiniteworlds.app
 0.0.0.0 insertface.com
 0.0.0.0 insidr.ai
@@ -643,6 +655,8 @@
 0.0.0.0 jeda.ai
 0.0.0.0 jeddahairport.net
 0.0.0.0 jinnee.co
+0.0.0.0 joi.ai
+0.0.0.0 joi.chat
 0.0.0.0 joiai.com
 0.0.0.0 joiaigirlfriend.com
 0.0.0.0 joinrealm.ai
@@ -722,12 +736,14 @@
 0.0.0.0 lovelace.chat
 0.0.0.0 lovelines.xyz
 0.0.0.0 loverse.ai
+0.0.0.0 lovescape.ai
 0.0.0.0 lovo.ai
 0.0.0.0 lovr.ai
 0.0.0.0 ludo.ai
 0.0.0.0 lumalabs.ai
 0.0.0.0 lumenor.ai
 0.0.0.0 lunai.art
+0.0.0.0 lurvessa.com
 0.0.0.0 luvr.ai
 0.0.0.0 made.porn
 0.0.0.0 madpenguin.org
@@ -774,6 +790,7 @@
 0.0.0.0 mixologyai.com
 0.0.0.0 mlyearning.org
 0.0.0.0 mockey.ai
+0.0.0.0 modelsify.com
 0.0.0.0 moemate.ai
 0.0.0.0 moemate.io
 0.0.0.0 moescape.ai
@@ -831,8 +848,13 @@
 0.0.0.0 novelai.net
 0.0.0.0 novita.ai
 0.0.0.0 nsfw.xxx
+0.0.0.0 nsfwai.tools
+0.0.0.0 nsfwaibots.com
+0.0.0.0 nsfwaihub.com
 0.0.0.0 nsfwartgenerator.ai
+0.0.0.0 nsfwbots.com
 0.0.0.0 nsfwcharacter.ai
+0.0.0.0 nsfwchatbots.com
 0.0.0.0 nsfwcrush.io
 0.0.0.0 nsfwgenerator.ai
 0.0.0.0 nsfwgirlfriend.com
@@ -880,6 +902,7 @@
 0.0.0.0 otasarimciol.shop
 0.0.0.0 otherhalf.ai
 0.0.0.0 otter.ai
+0.0.0.0 ourdream.ai
 0.0.0.0 outfitanyone.app
 0.0.0.0 outsourceit.today
 0.0.0.0 paintedsaintly.com
@@ -958,6 +981,8 @@
 0.0.0.0 polyai.ai
 0.0.0.0 polybuzz.ai
 0.0.0.0 popularaitools.ai
+0.0.0.0 popvid.ai
+0.0.0.0 popvid.app
 0.0.0.0 porn.ai
 0.0.0.0 pornai.biz
 0.0.0.0 pornai.tv
@@ -1063,6 +1088,10 @@
 0.0.0.0 samurai-gamers.com
 0.0.0.0 sandner.art
 0.0.0.0 sarahmeyohas.com
+0.0.0.0 saucepan.ai
+0.0.0.0 saylo.ai
+0.0.0.0 saylo.chat
+0.0.0.0 sayon.ai
 0.0.0.0 scenario.com
 0.0.0.0 scpa.education
 0.0.0.0 scrum.co
@@ -1122,6 +1151,10 @@
 0.0.0.0 spicechat.ai
 0.0.0.0 spicy.porn
 0.0.0.0 spicychat.ai
+0.0.0.0 spicychat.app
+0.0.0.0 spicychat.net
+0.0.0.0 spicyranks.ai
+0.0.0.0 spicywriter.com
 0.0.0.0 spreadai.app
 0.0.0.0 sprinkleofai.com
 0.0.0.0 stability.ai
@@ -1166,6 +1199,7 @@
 0.0.0.0 swag-ai.com
 0.0.0.0 swapface.org
 0.0.0.0 swimm.io
+0.0.0.0 swipey.ai
 0.0.0.0 synthesia.io
 0.0.0.0 synthesis.ai
 0.0.0.0 synthesys.io
@@ -1233,6 +1267,8 @@
 0.0.0.0 udio.com
 0.0.0.0 umatechnology.org
 0.0.0.0 unboundml.com
+0.0.0.0 uncensy.ai
+0.0.0.0 uncensy.com
 0.0.0.0 undetectable.ai
 0.0.0.0 undetectablecontent.ai
 0.0.0.0 undress-ai.app
@@ -1258,13 +1294,18 @@
 0.0.0.0 vanceai.com
 0.0.0.0 veed.io
 0.0.0.0 vegas-ai.art
+0.0.0.0 venice.ai
 0.0.0.0 venuschat.ai
 0.0.0.0 vexx.ai
 0.0.0.0 vidyo.ai
 0.0.0.0 viggle.ai
 0.0.0.0 violetforest.com
+0.0.0.0 virtua.ai
+0.0.0.0 virtua.chat
 0.0.0.0 virtualboyfriend.ai
 0.0.0.0 virtualgirlfriend.ai
+0.0.0.0 virtuallover.ai
+0.0.0.0 virtuellelover.com
 0.0.0.0 virtulook.ai
 0.0.0.0 virtulook.wondershare.com
 0.0.0.0 visla.us
@@ -1288,9 +1329,14 @@
 0.0.0.0 wannafake.com
 0.0.0.0 warmer.ai
 0.0.0.0 webapi.ai
+0.0.0.0 weifu.ai
+0.0.0.0 weifuai.com
 0.0.0.0 weirdwonderfulai.art
 0.0.0.0 wellsaidlabs.com
 0.0.0.0 whatthediff.ai
+0.0.0.0 whispa.ai
+0.0.0.0 whispa.chat
+0.0.0.0 whispatia.com
 0.0.0.0 whythealgarve.com
 0.0.0.0 whytryai.com
 0.0.0.0 wikimedia.org
