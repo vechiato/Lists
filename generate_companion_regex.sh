@@ -27,8 +27,12 @@ echo
 
 # Read keywords line-by-line
 while IFS= read -r kw; do
+  # Strip everything after a '#' (comments)
+  kw="${kw%%#*}"
+  # Trim leading/trailing whitespace
+  kw="$(echo "$kw" | xargs)"
+  # Skip empty lines
   [[ -z "$kw" ]] && continue
-  [[ "$kw" =~ ^# ]] && continue
 
   REGEX=".*${kw}.*"
   echo "→ Adding regex: ${REGEX}"
