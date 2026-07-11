@@ -2,7 +2,7 @@
 # -------------------------------------[INFO]---------------------------------------
 # AI Companion list
 # ------------------------------------[UPDATE]--------------------------------------
-# 20260617
+# 20260711
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 100xgrowth.ai
 0.0.0.0 2moons.ai
@@ -270,7 +270,6 @@
 0.0.0.0 chatai.com
 0.0.0.0 chatbase.co
 0.0.0.0 chatbot.com
-0.0.0.0 chatgpt.com
 0.0.0.0 chatsimple.ai
 0.0.0.0 cheapnft.art
 0.0.0.0 cheatsheet.md
@@ -296,8 +295,6 @@
 0.0.0.0 clova.ai
 0.0.0.0 codewp.ai
 0.0.0.0 codium.ai
-0.0.0.0 cognitive.ai
-0.0.0.0 cohere.io
 0.0.0.0 cohesive.so
 0.0.0.0 coinllectibles.art
 0.0.0.0 color-anything.com
@@ -312,8 +309,6 @@
 0.0.0.0 contentatscale.ai
 0.0.0.0 convai.com
 0.0.0.0 cookup.ai
-0.0.0.0 copilot.github.com
-0.0.0.0 copilot.microsoft.com
 0.0.0.0 corporateheadshots.ai
 0.0.0.0 cotax.art
 0.0.0.0 coursebox.ai
@@ -375,7 +370,6 @@
 0.0.0.0 deepfloyd.ai
 0.0.0.0 deepfucks.com
 0.0.0.0 deepgram.com
-0.0.0.0 deeplearning.ai
 0.0.0.0 deepmode.ai
 0.0.0.0 deepnude-ai.com
 0.0.0.0 deepnude.ca
@@ -387,7 +381,6 @@
 0.0.0.0 deepswap.ai
 0.0.0.0 deloris-ai.com
 0.0.0.0 derwen.ai
-0.0.0.0 descript.com
 0.0.0.0 desifakes.com
 0.0.0.0 designs.ai
 0.0.0.0 dezgo.com
@@ -431,7 +424,6 @@
 0.0.0.0 dreamphillic.com
 0.0.0.0 dreampic.ai
 0.0.0.0 dreamsofbooks.com
-0.0.0.0 dreamstudio.ai
 0.0.0.0 dreamtavern.ai
 0.0.0.0 dreamup.ai
 0.0.0.0 dreamup.com
@@ -448,11 +440,9 @@
 0.0.0.0 ebsynth.com
 0.0.0.0 echo.win
 0.0.0.0 ehentai.ai
-0.0.0.0 eightify.app
 0.0.0.0 eilla.ai
 0.0.0.0 elai.io
 0.0.0.0 elephant.art
-0.0.0.0 eleuther.ai
 0.0.0.0 ellyd.ai
 0.0.0.0 ellydee.ai
 0.0.0.0 elna-ai.art
@@ -493,9 +483,7 @@
 0.0.0.0 fictionlab.ai
 0.0.0.0 filmport.ai
 0.0.0.0 findmyaitool.com
-0.0.0.0 fireflies.ai
 0.0.0.0 fishkeepingadvice.com
-0.0.0.0 fliki.ai
 0.0.0.0 flipped.chat
 0.0.0.0 flirtflix.ai
 0.0.0.0 flowgpt.com
@@ -541,7 +529,6 @@
 0.0.0.0 genzart.ai
 0.0.0.0 getgenie.ai
 0.0.0.0 getidol.com
-0.0.0.0 getimg.ai
 0.0.0.0 getmanifest.ai
 0.0.0.0 getmerlin.in
 0.0.0.0 getmynudes.com
@@ -571,7 +558,6 @@
 0.0.0.0 gptgirlfriend.online
 0.0.0.0 gptstore.ai
 0.0.0.0 graviti.com
-0.0.0.0 graydient.ai
 0.0.0.0 greataiprompts.com
 0.0.0.0 groundabout.coffee
 0.0.0.0 hairstyleai.com
@@ -582,7 +568,6 @@
 0.0.0.0 herahaven.ai
 0.0.0.0 heyeditor.net
 0.0.0.0 heygen.com
-0.0.0.0 heypi.com
 0.0.0.0 hiddendoor.co
 0.0.0.0 hiromance.ai
 0.0.0.0 hiromance.app
@@ -596,7 +581,6 @@
 0.0.0.0 hotchat.ai
 0.0.0.0 hotpot.ai
 0.0.0.0 hourone.ai
-0.0.0.0 humata.ai
 0.0.0.0 hunts.ai
 0.0.0.0 hypic.app
 0.0.0.0 hypotenuse.ai
@@ -604,7 +588,6 @@
 0.0.0.0 iamfy.co
 0.0.0.0 icegirls.ai
 0.0.0.0 icons8.com
-0.0.0.0 ideogram.ai
 0.0.0.0 idesigns.shop
 0.0.0.0 idomoo.ai
 0.0.0.0 idyllic.app
@@ -634,7 +617,6 @@
 0.0.0.0 insidr.ai
 0.0.0.0 inspiringdesigns.net
 0.0.0.0 instantaiprompt.com
-0.0.0.0 instantart.io
 0.0.0.0 interiorai.com
 0.0.0.0 interlinkedai.com
 0.0.0.0 invideo.io
@@ -705,7 +687,6 @@
 0.0.0.0 learnmidjourney.ai
 0.0.0.0 learnwithnaseem.com
 0.0.0.0 lemonsqueezy.com
-0.0.0.0 leonardo.ai
 0.0.0.0 letsenhance.io
 0.0.0.0 letstryai.com
 0.0.0.0 lewd.chat
@@ -739,14 +720,12 @@
 0.0.0.0 lovo.ai
 0.0.0.0 lovr.ai
 0.0.0.0 ludo.ai
-0.0.0.0 lumalabs.ai
 0.0.0.0 lumenor.ai
 0.0.0.0 lunai.art
 0.0.0.0 lurvessa.com
 0.0.0.0 luvr.ai
 0.0.0.0 made.porn
 0.0.0.0 madpenguin.org
-0.0.0.0 mage.space
 0.0.0.0 magichour.ai
 0.0.0.0 magicstudio.com
 0.0.0.0 magnific.ai
@@ -767,15 +746,11 @@
 0.0.0.0 melodystudio.net
 0.0.0.0 memo.tv
 0.0.0.0 meshy.ai
-0.0.0.0 meta.ai
 0.0.0.0 metademolab.com
 0.0.0.0 metaphysic.ai
 0.0.0.0 metaroids.com
 0.0.0.0 miaoshouai.com
-0.0.0.0 midjourney.co
 0.0.0.0 midjourney.co.in
-0.0.0.0 midjourney.com
-0.0.0.0 midjourney.fm
 0.0.0.0 midjourney9.com
 0.0.0.0 midjourneyai.ai
 0.0.0.0 midlibrary.io
@@ -783,7 +758,6 @@
 0.0.0.0 miniapps.ai
 0.0.0.0 miramuseai.net
 0.0.0.0 mirrorize.ai
-0.0.0.0 mistral.ai
 0.0.0.0 mitsuku.ai
 0.0.0.0 mixcomfy.com
 0.0.0.0 mixologyai.com
@@ -799,7 +773,6 @@
 0.0.0.0 muah.ai
 0.0.0.0 mubert.com
 0.0.0.0 multichatai.com
-0.0.0.0 murf.ai
 0.0.0.0 musesai.io
 0.0.0.0 musicfy.lol
 0.0.0.0 musicstar.ai
@@ -832,7 +805,6 @@
 0.0.0.0 nft-generator.art
 0.0.0.0 nftartwithlauren.com
 0.0.0.0 nicepixels.net
-0.0.0.0 nightcafe.studio
 0.0.0.0 nijijourney.com
 0.0.0.0 nikki.ai
 0.0.0.0 nikkiai.app
@@ -886,8 +858,6 @@
 0.0.0.0 oobabooga.com
 0.0.0.0 oobabooga.github.io
 0.0.0.0 open-assistant.io
-0.0.0.0 openai.art
-0.0.0.0 openai.com
 0.0.0.0 openaijourney.com
 0.0.0.0 openaisea.com
 0.0.0.0 openart.ai
@@ -895,7 +865,6 @@
 0.0.0.0 opendream.ai
 0.0.0.0 openfuture.ai
 0.0.0.0 openjourney.art
-0.0.0.0 openrouter.ai
 0.0.0.0 opensea.io
 0.0.0.0 opentools.ai
 0.0.0.0 otasarimciol.shop
@@ -921,7 +890,6 @@
 0.0.0.0 perberos.me
 0.0.0.0 perchance.org
 0.0.0.0 perfectcorp.com
-0.0.0.0 perplexity.ai
 0.0.0.0 petalica.paint
 0.0.0.0 petbooth.app
 0.0.0.0 pfpmaker.com
@@ -931,7 +899,6 @@
 0.0.0.0 photoai.com
 0.0.0.0 photosonic.ai
 0.0.0.0 phraser.tech
-0.0.0.0 pi.ai
 0.0.0.0 pica-ai.com
 0.0.0.0 picassoia.com
 0.0.0.0 picfinder.ai
@@ -944,7 +911,6 @@
 0.0.0.0 pictory.ai
 0.0.0.0 pictureit.art
 0.0.0.0 picwish.com
-0.0.0.0 pika.art
 0.0.0.0 pikbest.com
 0.0.0.0 pillowtalk.ai
 0.0.0.0 pillowtalk.chat
@@ -964,7 +930,6 @@
 0.0.0.0 pixverse.ai
 0.0.0.0 pjoshi15.com
 0.0.0.0 plask.ai
-0.0.0.0 play.ht
 0.0.0.0 playarti.com
 0.0.0.0 playform.ai
 0.0.0.0 playform.io
@@ -974,8 +939,6 @@
 0.0.0.0 pluginplay.ai
 0.0.0.0 pngmaker.ai
 0.0.0.0 podcastrocket.net
-0.0.0.0 poe.com
-0.0.0.0 poised.com
 0.0.0.0 pokeit.ai
 0.0.0.0 polyai.ai
 0.0.0.0 polybuzz.ai
@@ -1051,14 +1014,11 @@
 0.0.0.0 rareconnections.io
 0.0.0.0 realdeepfakes.com
 0.0.0.0 realestate.ai
-0.0.0.0 recraft.ai
 0.0.0.0 redraw.art
 0.0.0.0 reface.ai
 0.0.0.0 remaker.ai
 0.0.0.0 rephrase.ai
 0.0.0.0 replicable.art
-0.0.0.0 replicate.ai
-0.0.0.0 replicate.com
 0.0.0.0 replika.ai
 0.0.0.0 replika.com
 0.0.0.0 replikabot.com
@@ -1079,7 +1039,6 @@
 0.0.0.0 rprp.ai
 0.0.0.0 runcomfy.com
 0.0.0.0 rundiffusion.com
-0.0.0.0 runwayml.com
 0.0.0.0 rushchat.ai
 0.0.0.0 sakana.ai
 0.0.0.0 sakura.ai
@@ -1095,7 +1054,6 @@
 0.0.0.0 scpa.education
 0.0.0.0 scrum.co
 0.0.0.0 sdxlturbo.ai
-0.0.0.0 seaart.ai
 0.0.0.0 seapik.com
 0.0.0.0 seduced.ai
 0.0.0.0 seek.art
@@ -1156,7 +1114,6 @@
 0.0.0.0 spicywriter.com
 0.0.0.0 spreadai.app
 0.0.0.0 sprinkleofai.com
-0.0.0.0 stability.ai
 0.0.0.0 stable-diffusion-ai.art
 0.0.0.0 stable-diffusion-art.com
 0.0.0.0 stable-diffusion-online.net
@@ -1199,7 +1156,6 @@
 0.0.0.0 swapface.org
 0.0.0.0 swimm.io
 0.0.0.0 swipey.ai
-0.0.0.0 synthesia.io
 0.0.0.0 synthesis.ai
 0.0.0.0 synthesys.io
 0.0.0.0 talkie-ai.com
@@ -1234,7 +1190,6 @@
 0.0.0.0 tingo.ai
 0.0.0.0 tldrdev.ai
 0.0.0.0 tlyrics.art
-0.0.0.0 together.ai
 0.0.0.0 toolai.io
 0.0.0.0 toolbaz.com
 0.0.0.0 tooldirectory.ai
@@ -1290,14 +1245,11 @@
 0.0.0.0 usp.ai
 0.0.0.0 vaib.me
 0.0.0.0 vana.com
-0.0.0.0 vanceai.com
-0.0.0.0 veed.io
 0.0.0.0 vegas-ai.art
 0.0.0.0 venice.ai
 0.0.0.0 venuschat.ai
 0.0.0.0 vexx.ai
 0.0.0.0 vidyo.ai
-0.0.0.0 viggle.ai
 0.0.0.0 violetforest.com
 0.0.0.0 virtua.ai
 0.0.0.0 virtua.chat
@@ -1314,7 +1266,6 @@
 0.0.0.0 voice.ai
 0.0.0.0 voiceand.ai
 0.0.0.0 voicebot.ai
-0.0.0.0 voicify.ai
 0.0.0.0 voidsynth.art
 0.0.0.0 vondy.com
 0.0.0.0 vrai.art
@@ -1357,7 +1308,6 @@
 0.0.0.0 yeschat.ai
 0.0.0.0 yodayo.com
 0.0.0.0 yoohoo.cards
-0.0.0.0 you.com
 0.0.0.0 z.ai
 0.0.0.0 zavant.ai
 0.0.0.0 zazow.com
